@@ -1,0 +1,15 @@
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.AssemblyInfoInputs.cache
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.AssemblyInfo.cs
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.csproj.CoreCompileInputs.cache
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.sourcelink.json
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/bin/Debug/net10.0/CSharpExcercises
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/bin/Debug/net10.0/CSharpExcercises.deps.json
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/bin/Debug/net10.0/CSharpExcercises.runtimeconfig.json
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/bin/Debug/net10.0/CSharpExcercises.dll
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/bin/Debug/net10.0/CSharpExcercises.pdb
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.dll
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/refint/CSharpExcercises.dll
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.pdb
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.genruntimeconfig.cache
+/home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/ref/CSharpExcercises.dll
