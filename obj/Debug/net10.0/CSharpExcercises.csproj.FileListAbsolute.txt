@@ -13,3 +13,18 @@
 /home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.pdb
 /home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/CSharpExcercises.genruntimeconfig.cache
 /home/cristian/Documentos/GitHub/CSharpExcercises_Cristian_Munoz/obj/Debug/net10.0/ref/CSharpExcercises.dll
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\bin\Debug\net10.0\CSharpExcercises.exe
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\bin\Debug\net10.0\CSharpExcercises.deps.json
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\bin\Debug\net10.0\CSharpExcercises.runtimeconfig.json
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\bin\Debug\net10.0\CSharpExcercises.dll
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\bin\Debug\net10.0\CSharpExcercises.pdb
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.AssemblyInfoInputs.cache
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.AssemblyInfo.cs
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.csproj.CoreCompileInputs.cache
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.sourcelink.json
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.dll
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\refint\CSharpExcercises.dll
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.pdb
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\CSharpExcercises.genruntimeconfig.cache
+E:\Software y proyectos\Programación\CSharpExercises\CSharpExcercises\obj\Debug\net10.0\ref\CSharpExcercises.dll
