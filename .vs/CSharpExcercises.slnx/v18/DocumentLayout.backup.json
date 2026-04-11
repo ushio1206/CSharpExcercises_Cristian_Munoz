@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A6AF787B-4900-D0AF-7211-A627C9702D7E}|CSharpExcercises.csproj|solutionrelative:excercise_01_time_date_while_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6AF787B-4900-D0AF-7211-A627C9702D7E}|CSharpExcercises.csproj|e:\\software y proyectos\\programaci\u00F3n\\csharpexercises\\csharpexcercises\\excercise_01_time_date_while_main\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6AF787B-4900-D0AF-7211-A627C9702D7E}|CSharpExcercises.csproj|solutionrelative:excercise_01_time_date_while_main\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6AF787B-4900-D0AF-7211-A627C9702D7E}|CSharpExcercises.csproj|e:\\software y proyectos\\programaci\u00F3n\\csharpexercises\\csharpexcercises\\excercise_01_time_date_while_main\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6AF787B-4900-D0AF-7211-A627C9702D7E}|CSharpExcercises.csproj|solutionrelative:excercise_01_time_date_while_main\\timeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AF787B-4900-D0AF-7211-A627C9702D7E}|CSharpExcercises.csproj|e:\\software y proyectos\\programaci\u00F3n\\csharpexercises\\csharpexcercises\\excercise_01_time_date_while_main\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AF787B-4900-D0AF-7211-A627C9702D7E}|CSharpExcercises.csproj|solutionrelative:excercise_01_time_date_while_main\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,26 +26,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\Software y proyectos\\Programaci\u00F3n\\CSharpExercises\\CSharpExcercises\\Excercise_01_Time_Date_While_Main\\UserService.cs",
               "RelativeDocumentMoniker": "Excercise_01_Time_Date_While_Main\\UserService.cs",
               "ToolTip": "E:\\Software y proyectos\\Programaci\u00F3n\\CSharpExercises\\CSharpExcercises\\Excercise_01_Time_Date_While_Main\\UserService.cs",
               "RelativeToolTip": "Excercise_01_Time_Date_While_Main\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T20:40:35.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TimeService.cs",
               "DocumentMoniker": "E:\\Software y proyectos\\Programaci\u00F3n\\CSharpExercises\\CSharpExcercises\\Excercise_01_Time_Date_While_Main\\TimeService.cs",
               "RelativeDocumentMoniker": "Excercise_01_Time_Date_While_Main\\TimeService.cs",
               "ToolTip": "E:\\Software y proyectos\\Programaci\u00F3n\\CSharpExercises\\CSharpExcercises\\Excercise_01_Time_Date_While_Main\\TimeService.cs",
               "RelativeToolTip": "Excercise_01_Time_Date_While_Main\\TimeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T20:40:34.918Z",
               "EditorCaption": ""
@@ -56,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Software y proyectos\\Programaci\u00F3n\\CSharpExercises\\CSharpExcercises\\Excercise_01_Time_Date_While_Main\\Program.cs",
               "RelativeDocumentMoniker": "Excercise_01_Time_Date_While_Main\\Program.cs",
-              "ToolTip": "E:\\Software y proyectos\\Programaci\u00F3n\\CSharpExercises\\CSharpExcercises\\Excercise_01_Time_Date_While_Main\\Program.cs*",
-              "RelativeToolTip": "Excercise_01_Time_Date_While_Main\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Software y proyectos\\Programaci\u00F3n\\CSharpExercises\\CSharpExcercises\\Excercise_01_Time_Date_While_Main\\Program.cs",
+              "RelativeToolTip": "Excercise_01_Time_Date_While_Main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T20:28:04.378Z",
               "EditorCaption": ""

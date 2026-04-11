@@ -2,6 +2,17 @@ namespace CSharpExcercises;
 
 public class Program
 {
+    // Make a dictionary to get methods out of while and save them to access later
+    private static Dictionary<string, Action> CreateActions(Action stop)
+    {
+        return new Dictionary<string, Action>()
+        {
+            {"1", ShowHour},
+            {"2", HandleGreeting },
+            {"3", stop}
+        };
+    }
+
     public static void Main(string[] args)
     {
         Run();
@@ -11,14 +22,11 @@ public class Program
     {
         bool isRunning = true;
 
-        // Make a dictionary to get methods out of while and save them to access later
-        var actions = new Dictionary<string, Action>()
+        var actions = CreateActions(() =>
         {
-            {"1", ShowHour},
-            {"2", HandleGreeting },
-            {"3", () => isRunning = false}
-
-        };
+            Console.WriteLine
+            isRunning = false;
+        });
 
         while (isRunning)
         {
